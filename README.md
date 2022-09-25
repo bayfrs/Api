@@ -1,11 +1,7 @@
 # api
-
 Just use it to study, I'm still learning
-
 But don't forget the name of the creator (ɔ◔‿◔)ɔ
-
 Those who want to add can pull requests, if there is an error, they can immediately make an issue
-
 Enjoy~ <3
 
 ## 🛠️ Feature
