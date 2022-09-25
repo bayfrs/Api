@@ -86,3 +86,4 @@ Enjoy~ <3
 ## Thanks To
 * [`indrijunanda`](https://github.com/indrijunanda/RuangAdmin)
 * Anu-Team
+* [Arya-was](https://github.com/Arya-was)
